@@ -1,0 +1,12 @@
+Setups required: 
+- Python 
+- Anaconda Navigator. 
+    - Spyder (for offline)
+    - Jupyter Notebook
+    - Code Basics Videos
+
+Meaning: 
+    - em=exact match
+    - fl=
+
+    # Sora=> text to videos
